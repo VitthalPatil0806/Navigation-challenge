@@ -1,0 +1,22 @@
+body{
+margin-top: 350px;
+margin-left: 400px;
+font-size: 25px;
+}
+
+.nav-item{
+  color: #808080;
+  background-color: #000000;
+  border-radius: 15%;
+  padding-top: 1%;
+  padding-right: 8%;
+  padding-left: 1%;
+  padding-bottom: 1%;
+  width: 70%;
+  margin-left: -35px;
+  text-decoration: none;
+}
+.nav-item:hover{
+  color: aqua;
+  cursor: pointer;
+}
